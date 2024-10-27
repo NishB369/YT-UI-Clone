@@ -42,6 +42,14 @@ To view this project locally, follow these steps:
 ## Usage
 * Open the project in your browser to view the clone of the CRED application.
 * Explore the layout and features implemented using HTML and CSS.
+* Or you can directly have a look at [link](https://yt--clone.vercel.app/).
+
+## Screenshots
+![](/src/images/Others/ytss1.png)
+![](/src/images/Others/ytss2.png)
+![](/src/images/Others/ytss3.png)
+![](/src/images/Others/ytss4.png)
+![](/src/images/Others/ytss5.png)
 
 ## Contact
 * For any inquiries or feedback, feel free to reach out:
